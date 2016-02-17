@@ -24,13 +24,16 @@ npm install --save big-companies
 var bigCompanies = require('big-companies');
 
 console.log(bigCompanies[0]);
+```
 
-// Output:
-// {
-//   name: 'Walmart',
-//   shortNames: [ 'walmart' ],
-//   url: 'http://www.walmart.com'
-// }
+Will output:
+
+```javascript
+{
+  name: 'Walmart',
+  shortNames: [ 'walmart' ],
+  url: 'http://www.walmart.com'
+}
 ```
 
 ## License
