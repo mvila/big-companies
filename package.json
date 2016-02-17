@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "List of the biggest companies in the world",
   "author": "Manuel Vila <mvila@3base.com>",
+  "keywords": ["company", "companies", "large", "big", "list", "fortune", "global", "500", "global500", "name", "url", "shortname", "short name", "username", "reserved", "restrict"],
   "license": "MIT",
   "reveal": true,
   "main": "data.json",
