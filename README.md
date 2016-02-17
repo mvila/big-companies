@@ -10,7 +10,7 @@ For each company, the following information are provided:
 
 The `shortNames` property can be used to restrict usernames in a registration form. That's why I created this module.
 
-Source: [Fortune Global 500 (2015)](http://fortune.com/global500/).
+Source: [Fortune Global 500](http://fortune.com/global500/) (2015).
 
 ## Installation
 
@@ -31,7 +31,7 @@ Will output:
 ```javascript
 {
   name: 'Walmart',
-  shortNames: [ 'walmart' ],
+  shortNames: ['walmart'],
   url: 'http://www.walmart.com'
 }
 ```
