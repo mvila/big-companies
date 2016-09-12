@@ -23,6 +23,9 @@
   ],
   "license": "MIT",
   "reveal": true,
+  "files": [
+    "data.json"
+  ],
   "main": "data.json",
   "repository": {
     "type": "git",
