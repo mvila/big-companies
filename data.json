@@ -346,7 +346,7 @@
   },
   {
     "name": "Nestlé",
-    "shortNames": ["nestle"],
+    "shortNames": ["nestle", "nescafe"],
     "url": "http://www.nestle.com"
   },
   {
@@ -2498,5 +2498,15 @@
     "name": "Wuhan Iron & Steel",
     "shortNames": ["wisco"],
     "url": "http://www.wisco.com.cn"
+  },
+  {
+    "name": "Ikea",
+    "shortNames": ["ikea"],
+    "url": "http://www.ikea.com/"
+  },
+  {
+    "name": "Tesla",
+    "shortNames": ["tesla"],
+    "url": "https://www.tesla.com/"
   }
 ]
